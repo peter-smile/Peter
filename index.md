@@ -1,7 +1,14 @@
 # Si-Ming（Peter） Li,
+對於經濟和生產線規劃都有興趣而就讀了兩個不同科系，
+現在又前腳想踏進程式設計領域的研究生。
 
+## Education
+### National Tsing Hua University, Master ,2020 Sep ~ Present
+Industrial Engineering and Engineering Management
+### National Cheng Kung University, Bachelor , 2016 Sep ~ 2020 Jun
+Economics
 
-### Education
+## Experience
 
 [SITCON](https://sitcon.org/)
 
