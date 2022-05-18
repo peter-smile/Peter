@@ -5,10 +5,15 @@
 ## Education
 ### National Tsing Hua University, Master ,2020 Sep ~ Present
 Industrial Engineering and Engineering Management
+Get used to **linear program** and **modeling**
+
 ### National Cheng Kung University, Bachelor , 2016 Sep ~ 2020 Jun
 Economics
+Good at econometrics and learn the logical thinking method
 
 ## Experience
+
+
 
 [SITCON](https://sitcon.org/)
 
