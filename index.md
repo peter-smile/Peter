@@ -13,10 +13,18 @@ Good at econometrics and learn the logical thinking method
 
 ## Experience
 
+### NTHU Consulting group , member 2021 Oct ~ Present
 
+### Student Information Technology Conference （SITCON） , Deputy head of Agenda Team , 2022 Nov ~ Presnt
+
+### Student Information Technology Conference （SITCON） , Member of Agenda Team , 2020 Oct ~ 2021 Sep
+
+### TMBA , Member of ECM 2021 July ~ 2022 Feb
+
+## Skills
 
 [SITCON](https://sitcon.org/)
-
+<!--
 ## Welcome to GitHub Pages
 Hi Peter
 You can use the [editor on GitHub](https://github.com/peter-smile/peter-smile.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -54,3 +62,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
