@@ -4,12 +4,14 @@ Email：[peter19980416@gmail.com](mailto:peter19980416@gmail.com) | Phone：0987
 現在又前腳想踏進程式設計領域的研究生。
 
 ## Education
-### National Tsing Hua University, Master ,2020 Sep ~ Present
+### National Tsing Hua University  
+##### Master , <p align="right">2020 Sep ~ Present</p>
 Industrial Engineering and Engineering Management   **GPA 4.15/4.3**  
 Get used to **linear program** and **modeling**  
 Researches combines **linear programming** and **nonparametric method** to evalutate the weight of the estimated coefficient
 
-### National Cheng Kung University, Bachelor , 2016 Sep ~ 2020 Jun
+### National Cheng Kung University
+##### Bachelor , <p align="right">2016 Sep ~ 2020 Jun</p>
 Economics                                           **GPA 3.8/4.3**
 Good at econometrics and learn the logical thinking method  
 Doing the prediction of the national GDP growth rate by the time series data and linear regression in the econometric course.
@@ -30,16 +32,16 @@ Serve as an intermediate between Team and other groups , make an arrangement of 
 
 ### Student Information Technology Conference （SITCON） , Member of Agenda Team , 2020 Oct ~ 2021 Sep
 Implementing the assigned project and editing the information for the speaker, planning the previous works for the online campus after the COVID-19 break out.
-- After the huge impact of the COVID-19,
-I was **responsible for** the planning of the pre-record for the online conference and the assist the agenda QA session on the conference day
-- 
-- 
+- Planned the recording time slot and notified the speaker with the information to prepare for the recording.
+- As the contact person for the all general session speakers to answer the questions and sent them informations.
+- Accounted for the agenda QA session on the conference day
   
 ### TMBA , Member of ECM 2021 July ~ 2022 Feb
-
-- analyzed three different industry
-- 
-- 
+A business and financial research club which divide into equity research and macro economics in brief.  
+I engaged in both in summer vacation and I dedicated in equity research in the later semeter and in the winter vacation.
+- Analyzed three different industry which includes renewable energy , consumer electron , power semiconductor.
+- collected and organized the materials for the research.
+- proposed one of the growth momentum for the research
   
 ## Skills
 #### Excel
