@@ -17,19 +17,33 @@ Doing the prediction of the national GDP growth rate by the time series data and
 ## Experience
 
 ### NTHU Consulting group , member 2021 Oct ~ Present
-
+> Serve as an intermediate between Team and other groups ,  
+    make an arrangement of the project time table make sure the each project can be finished before the due time point.
+- **Accountable for** the team’s all tasks and provide some opinions about an issue.
+- **Adjusting and negotiating** with other team to reach a consensus on the cross functional works when the schedule changes.
+- Keep passion and curious about all the new knowledge and challenges to be innovative.
 ### Student Information Technology Conference （SITCON） , Deputy head of Agenda Team , 2022 Nov ~ Presnt
-
+- 
+- 
+- 
 ### Student Information Technology Conference （SITCON） , Member of Agenda Team , 2020 Oct ~ 2021 Sep
-
+- 
+- 
+- 
 ### TMBA , Member of ECM 2021 July ~ 2022 Feb
-
+- 
+- 
+- 
 ## Skills
-Python
-C
-[SITCON](https://sitcon.org/) [Facebook]()
-<!--
-## Welcome to GitHub Pages
+#### Excel
+#### Python
+#### C  
+[SITCON](https://sitcon.org/) [Facebook](https://www.facebook.com/profile.php?id=100000464112988)
+
+
+
+
+<!--## Welcome to GitHub Pages
 Hi Peter
 You can use the [editor on GitHub](https://github.com/peter-smile/peter-smile.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -65,5 +79,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
--->
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.-->
