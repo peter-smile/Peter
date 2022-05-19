@@ -1,14 +1,16 @@
 # Si-Ming（Peter） Li,
+Email：peter19980416@gmail.com | Phone：0987721661
 對於經濟和生產線規劃都有興趣而就讀了兩個不同科系，
 現在又前腳想踏進程式設計領域的研究生。
 
 ## Education
 ### National Tsing Hua University, Master ,2020 Sep ~ Present
-Industrial Engineering and Engineering Management
+Industrial Engineering and Engineering Management   **GPA 4.15/4.3**
 Get used to **linear program** and **modeling**
+Researches combines **linear programming** and **nonparametric method** to evalutate the weight of the estimated coefficient
 
 ### National Cheng Kung University, Bachelor , 2016 Sep ~ 2020 Jun
-Economics
+Economics                                           **GPA 3.8/4.3**
 Good at econometrics and learn the logical thinking method
 
 ## Experience
@@ -22,8 +24,9 @@ Good at econometrics and learn the logical thinking method
 ### TMBA , Member of ECM 2021 July ~ 2022 Feb
 
 ## Skills
-
-[SITCON](https://sitcon.org/)
+Python
+C
+[SITCON](https://sitcon.org/) [Facebook]()
 <!--
 ## Welcome to GitHub Pages
 Hi Peter
