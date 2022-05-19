@@ -17,17 +17,17 @@ Doing the prediction of the national GDP growth rate by the time series data and
 ## Experience
 
 ### NTHU Consulting group , member 2021 Oct ~ Present
-> Serve as an intermediate between Team and other groups ,  
-    make an arrangement of the project time table make sure the each project can be finished before the due time point. 
+Serve as an intermediate between Team and other groups , make an arrangement of the project time table make sure the each project can be finished before the due time point. 
+- **Leading** the team discussion and make the all progress follow the time line as possible.
+- **Understanding** the team members’ problem and provide assistance.
+- **Decomposing** the problem and revise the issue tree to help analyze the problem.
+### Student Information Technology Conference （SITCON） , Deputy head of Agenda Team , 2022 Nov ~ Presnt
 - **Accountable for** the team’s all tasks and provide some opinions about an issue.
 - **Adjusting and negotiating** with other team to reach a consensus on the cross functional works when the schedule changes.
 - Keep passion and curious about all the new knowledge and challenges to be innovative.
-### Student Information Technology Conference （SITCON） , Deputy head of Agenda Team , 2022 Nov ~ Presnt
-- 
-- 
-- 
 ### Student Information Technology Conference （SITCON） , Member of Agenda Team , 2020 Oct ~ 2021 Sep
-- 
+- After the huge impact of the COVID-19,
+I was **responsible for** the planning of the pre-record for the online conference and the assist the agenda QA session on the conference day
 - 
 - 
 ### TMBA , Member of ECM 2021 July ~ 2022 Feb
