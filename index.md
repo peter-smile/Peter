@@ -18,7 +18,7 @@ Doing the prediction of the national GDP growth rate by the time series data and
 
 ### NTHU Consulting group , member 2021 Oct ~ Present
 > Serve as an intermediate between Team and other groups ,  
-    make an arrangement of the project time table make sure the each project can be finished before the due time point.
+    make an arrangement of the project time table make sure the each project can be finished before the due time point. 
 - **Accountable for** the team’s all tasks and provide some opinions about an issue.
 - **Adjusting and negotiating** with other team to reach a consensus on the cross functional works when the schedule changes.
 - Keep passion and curious about all the new knowledge and challenges to be innovative.
