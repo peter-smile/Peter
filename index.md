@@ -6,13 +6,15 @@ Email：[peter19980416@gmail.com](mailto:peter19980416@gmail.com) | Phone：0987
 ## Education
 ### National Tsing Hua University  
 ##### Master , 2020 Sep ~ Present  
-Industrial Engineering and Engineering Management   **GPA 4.15/4.3**  
+Industrial Engineering and Engineering Management     
+**GPA 4.15/4.3**  
 Get used to **linear program** and **modeling**  
 Researches combines **linear programming** and **nonparametric method** to evalutate the weight of the estimated coefficient
 
 ### National Cheng Kung University
 ##### Bachelor , 2016 Sep ~ 2020 Jun  
-Economics                                           **GPA 3.8/4.3**  
+Economics                         
+**GPA 3.8/4.3**  
 Good at econometrics and learn the logical thinking method  
 Doing the prediction of the national GDP growth rate by the time series data and linear regression in the econometric course.
 
