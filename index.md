@@ -37,7 +37,7 @@ I was **responsible for** the planning of the pre-record for the online conferen
   
 ### TMBA , Member of ECM 2021 July ~ 2022 Feb
 
-- 
+- analyzed three different industry
 - 
 - 
   
